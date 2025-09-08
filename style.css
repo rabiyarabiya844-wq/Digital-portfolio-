@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Rabiya Basri - Portfolio</title>
+
+  <style>
+
+    body {
+
+      margin: 0;
+
+      font-family: Arial, sans-serif;
+
+      background-color: skyblue;
+
+      color: #333;
+
+    }
+
+    header {
+
+      background: linear-gradient(to right, #00bfff, #87cefa);
+
+      text-align: center;
+
+      padding: 50px 20px;
+
+      color: white;
+
+    }
+
+    header h1 {
+
+      margin: 0;
+
+      font-size: 3em;
+
+    }
+
+    header p {
+
+      margin: 10px 0 0;
+
+      font-size: 1.2em;
+
+    }
+
+    nav {
+
+      background-color: #004080;
+
+      display: flex;
+
+      justify-content: center;
+
+      padding: 10px;
+
+    }
+
+    nav a {
+
+      color: white;
+
+      text-decoration: none;
+
+      margin: 0 15px;
+
+      font-weight: bold;
+
+    }
+
+    nav a:hover {
+
+      text-decoration: underline;
+
+    }
+
+    section {
+
+      max-width: 800px;
+
+      margin: 40px auto;
+
+      background: white;
+
+      padding: 20px;
+
+      border-radius: 12px;
+
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
+    }
+
+    h2 {
+
+      color: #004080;
+
+      border-bottom: 2px solid #004080;
+
+      padding-bottom: 5px;
+
+    }
+
+    ul {
+
+      padding-left: 20px;
+
+    }
+
+    footer {
+
+      background-color: #004080;
+
+      color: white;
+
+      text-align: center;
+
+      padding: 20px;
+
+      margin-top: 20px;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+
+    <h1>Rabiya Basri</h1>
+
+    <p>BCA Department | MMES Women's Arts and Science College, Melvisharam</p>
+
+  </header>
+
+  <nav>
+
+    <a href="#about">About</a>
+
+    <a href="#education">Education</a>
+
+    <a href="#skills">Skills</a>
+
+    <a href="#hobbies">Hobbies</a>
+
+    <a href="#contact">Contact</a>
+
+  </nav>
+
+  <section id="about">
+
+    <h2>About Me</h2>
+
+    <p>Hello! I am Rabiya Basri, a BCA student at MMES Women's Arts and Science College, Melvisharam. 
+
+       I am passionate about web development, programming, and learning new technologies.</p>
+
+  </section>
+
+  <section id="education">
+
+    <h2>Education</h2>
+
+    <ul>
+
+      <li>BCA - MMES Women's Arts and Science College</li>
+
+      <li>Higher Secondary (12th) - [Your School Name]</li>
+
+      <li>Secondary (10th) - [Your School Name]</li>
+
+    </ul>
+
+  </section>
+
+  <section id="skills">
+
+    <h2>Skills</h2>
+
+    <ul>
+
+      <li>HTML</li>
+
+      <li>CSS</li>
+
+      <li>JavaScript</li>
+
+      <li>Python</li>
+
+      <li>Database Management</li>
+
+    </ul>
+
+  </section>
+
+  <section id="hobbies">
+
+    <h2>Hobbies</h2>
+
+    <ul>
+
+      <li>Dancing</li>
+
+      <li>Reading</li>
+
+      <li>Writing</li>
+
+      <li>Singing</li>
+
+      <li>Traveling</li>
+
+    </ul>
+
+  </section>
+
+  <section id="contact">
+
+    <h2>Contact</h2>
+
+    <p>Email: yourname@email.com</p>
+
+    <p>Phone: +91-XXXXXXXXXX</p>
+
+  </section>
+
+  <footer>
+
+    <p>&copy; 2025 Rabiya Basri. All rights reserved.</p>
+
+  </footer>
+
+</body>
+
+</html>
